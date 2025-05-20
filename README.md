@@ -6,7 +6,7 @@
 
 <!-- Animated Header with Technologies -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Roeun%20Chanthou&fontSize=42&fontAlignY=36&desc=Mobile%20%26%20Fullstack%20Developer&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Roeun%20Chanthou&fontSize=42&fontAlignY=36&desc=Mobile%20%26%20Fullstack%20Developer&descAlignY=55&animation=fadeIn" alt="header" />
 </div>
 
 <!-- Animated Typing -->
@@ -113,12 +113,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanthou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=EEEEEE" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanthou&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanthou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=EEEEEE" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanthou&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanthou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=EEEEEE" alt="Top Languages" height="220em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanthou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=EEEEEE" alt="Top Languages" height="200" />
 </div>
 
 <div align="center">
@@ -134,7 +134,7 @@
         <h3 align="center">E-Commerce Book Store App</h3>
         <p align="center">
           <a href="https://github.com/your-repo" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=Book+Store+App" width="100%" alt="Book Store App"/>
+            <img src="https://via.placeholder.com/600x400/000/fff?text=Book+Store+App" width="100%" alt="Book Store App"/>
           </a>
           <p align="center">
             A full-featured Flutter e-commerce app with Laravel backend API. Features include user authentication, product browsing, cart management, and secure payments.
@@ -158,7 +158,7 @@
         <h3 align="center">Portfolio Website</h3>
         <p align="center">
           <a href="https://roeunchanthou.netlify.app" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=Portfolio+Website" width="100%" alt="Portfolio Website"/>
+            <img src="https://via.placeholder.com/600x400/000/fff?text=Portfolio+Website" width="100%" alt="Portfolio Website"/>
           </a>
           <p align="center">
             Personal portfolio website showcasing my projects and skills. Built with modern HTML, CSS, and JavaScript with animations and responsive design.
@@ -184,7 +184,7 @@
         <h3 align="center">SwiftUI Fitness Tracker</h3>
         <p align="center">
           <a href="https://github.com/your-repo" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=Fitness+Tracker" width="100%" alt="Fitness Tracker App"/>
+            <img src="https://via.placeholder.com/600x400/000/fff?text=Fitness+Tracker" width="100%" alt="Fitness Tracker App"/>
           </a>
           <p align="center">
             A native iOS fitness tracking app built with SwiftUI. Features include workout logging, progress tracking, and health metrics visualization.
@@ -208,7 +208,7 @@
         <h3 align="center">QR Scanner App</h3>
         <p align="center">
           <a href="https://github.com/your-repo" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=QR+Scanner+App" width="100%" alt="QR Scanner App"/>
+            <img src="https://via.placeholder.com/600x400/000/fff?text=QR+Scanner+App" width="100%" alt="QR Scanner App"/>
           </a>
           <p align="center">
             A feature-rich QR code scanner app built with Flutter. Uses real-time camera processing for quick and accurate QR code scanning and history tracking.
@@ -250,9 +250,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanthou/Chanthou/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanthou/Chanthou/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chanthou/Chanthou/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -263,7 +263,9 @@
 ## 📊 Activity Graph
 
 <div align="center">
-  <img alt="Chanthou's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanthou&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/Chanthou/github-readme-activity-graph">
+    <img alt="Chanthou's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanthou&theme=tokyo-night&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
@@ -316,4 +318,4 @@
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" alt="Footer" />
